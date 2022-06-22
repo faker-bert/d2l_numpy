@@ -8,8 +8,9 @@ You can view the corresponding tutorial instructions by submitting each submissi
 
 ## Table of contents
 
-TO DO
+[Perceptron](https://mp.weixin.qq.com/s/b96tcAvAla7SUI1j9V2xNw)
 
+[Forward in Neural Network](https://mp.weixin.qq.com/s/VVgiuSA8x6qSmZc6K6rkqw)
 ## Project directory structure description
 
 * data: Store data files (for project testing and demonstration of usage instructions)
